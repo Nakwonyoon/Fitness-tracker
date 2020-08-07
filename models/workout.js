@@ -18,7 +18,7 @@ exercises: {
   },
   duration: {
     type: Number,
-    required: "How long ?"
+    required: "How long?"
   },
   weight: {
     type: Number,
